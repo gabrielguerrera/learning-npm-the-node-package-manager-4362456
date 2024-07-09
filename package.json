@@ -1,0 +1,17 @@
+{
+  "name": "learning-npm-the-node-package-manager-4362456",
+  "version": "1.0.0",
+  "description": "This is the repository for the LinkedIn Learning course Learning npm: A Package Manager. The full course is available from [LinkedIn Learning][lil-course-url].",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
