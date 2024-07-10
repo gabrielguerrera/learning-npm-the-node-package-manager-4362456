@@ -73,3 +73,5 @@ npm audit fix tenta resolver alguns problemas, mas nao resolve todos
 
 npx pode ter script dele
 se rodar por exemplo nrpm run createangapp, vai rodar o comando do npx dentro dele
+
+Teste
